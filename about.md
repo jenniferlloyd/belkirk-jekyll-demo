@@ -5,9 +5,8 @@ banner_image: "/uploads/2018/02/17/college-building.jpg"
 heading: About Belkirk
 sub_heading: Ora et Labora
 layout: landing-page
-textline: "1. A multidisciplinary centre of experts who are essential to patient-oriented
-  research.\n2. ijilkjkh\n   * \n3. cgjfghj\n   * \n\n* hello\n  1. why me?\n  2.
-  yes you\n  3. I cry\n* hello\n* hello\n\n# This is a heading"
+textline: A multidisciplinary centre of experts who are essential to patient-oriented
+  research.
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 menu:
@@ -22,3 +21,17 @@ menu:
 The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
 
 Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+
+1. ijilkjkh
+   * 
+2. cgjfghj
+   * 
+
+* hello
+  1. why me?
+  2. yes you
+  3. I cry
+* hello
+* hello
+
+# This is a Heading
